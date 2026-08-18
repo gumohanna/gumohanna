@@ -1,4 +1,7 @@
 <h1 align="center">Olá, pessoal! 👋 Sou o Mohanna </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=278AF0&center=true&vCenter=true&width=435&lines=Desenvolvedor+Back-end;Java+%2B+Spring+Boot;Python+%2B+SQL" alt="Typing SVG" />
+</p>
 <h3 align="center">Desenvolvedor com foco em Back-end ⚙️</h3>
 
 <p align="center">
@@ -47,8 +50,6 @@
 
 ---
 
-### 🏆 Meus Troféus no GitHub
-
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=gumohanna&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Troféus" />
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=VISUALIZAÇÕES&color=0e75b6&style=for-the-badge" alt="Contador de Visitas" />
 </p>
