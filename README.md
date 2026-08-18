@@ -50,7 +50,8 @@
 ### 📊 Estatísticas (Opcional)
 
 <p align="left">
-  <!-- Troque "SEU_USUARIO" pelo seu nome de usuário do GitHub para esses cards funcionarem -->
-  <img src="https://github-readme-stats.vercel.app/api?username=gumohanna&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gumohanna&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
+  <!-- Card de estatísticas alternativo e mais estável -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
 </p>
