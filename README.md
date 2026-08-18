@@ -47,11 +47,8 @@
 
 ---
 
-### 📊 Estatísticas (Opcional)
+### 🏆 Meus Troféus no GitHub
 
 <p align="left">
-  <!-- Card de estatísticas alternativo e mais estável -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gumohanna&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gumohanna&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gumohanna&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Troféus" />
 </p>
