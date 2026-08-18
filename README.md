@@ -32,12 +32,6 @@
   </a>
 </p>
 
-<!-- Legenda caso alguém não conheça os ícones (Opcional, mas ajuda) -->
-*Java, Spring Boot, Python, SQL (PostgreSQL), Figma e Flutter.*
 
 ---
 
-### ⌨️ <br>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=278AF0&center=true&vCenter=true&width=435&lines=Transformando+ideias+em+codigo;Dev+Back-end;Java+%2B+Python" alt="Typing SVG" />
-</p>
