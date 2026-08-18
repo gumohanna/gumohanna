@@ -47,6 +47,3 @@
 
 ---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=gumohanna&label=VISUALIZAÇÕES&color=0e75b6&style=for-the-badge" alt="Contador de Visitas" />
-</p>
