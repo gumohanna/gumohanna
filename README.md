@@ -28,7 +28,7 @@
 <p align="left">
   <!-- Lista de ícones exatamente no estilo do perfil que você gostou -->
   <a href="https://github.com/SeuUsuarioAqui">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,postgres,figma,flutter&theme=dark" alt="Habilidades"/>
+    <img src="https://skillicons.dev/icons?i=java,spring,python,postgres,figma,intellij&theme=dark" alt="Habilidades"/>
   </a>
 </p>
 
